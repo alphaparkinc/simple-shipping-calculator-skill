@@ -1,8 +1,8 @@
 {
   "name": "simple-shipping-calculator-skill",
   "version": "1.0.0",
-  "description": "Calculate shipping rates and delivery timelines based on package dimensions, weight, destination, and selected service level.",
-  "author": "alphaparkinc",
+  "description": "GenPark AI Agent Skill - Calculate shipping rates and delivery timelines based on package dimensions, weight, destination, and selected service level.",
+  "author": "genpark",
   "category": "logistics",
   "tags": [
     "shipping",
