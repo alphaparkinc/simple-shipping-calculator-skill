@@ -1,4 +1,4 @@
-# simple-shipping-calculator-skill
+# genpark-simple-shipping-calculator-skill
 
 > **GenPark AI Agent Skill** -- Shipping rates and delivery estimator.
 
